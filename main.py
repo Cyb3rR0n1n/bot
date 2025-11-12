@@ -24,3 +24,5 @@ asyncio.run(main())
 # git branch -M main
 # git remote add origin https://github.com/Cyb3rR0n1n/tg_bot.git
 # git push -u origin main
+
+
